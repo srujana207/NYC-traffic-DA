@@ -14,7 +14,7 @@ Tools & Technologies Used
 ### Data Understanding and Preparation  
 The dataset included thousands of rows detailing each collision: date, time, borough, location, number of persons injured/killed, contributing factors, and types of vehicles involved. The data required preprocessing to handle null values, ensure consistent formatting (e.g., time stamps), and remove irrelevant or duplicate rows. Once cleaned, the data was explored using Excel features like PivotTables and slicers to allow quick filtering by borough, year, and contributing factor.
 
-Key Findings  
+#### Key Findings  
 
 -Top Boroughs for Collisions: Brooklyn and Queens had the highest number of collisions, with hotspots identified in specific zip codes.
 
