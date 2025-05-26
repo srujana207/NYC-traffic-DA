@@ -5,7 +5,7 @@
 ### Project Overview     
 This project analyzes traffic collision data from New York City, spanning the years 2020 to 2023. The primary goal was to uncover patterns, trends, and outliers in traffic incidents to better understand the conditions and locations contributing to accidents. This type of analysis can support public safety initiatives, resource allocation, and policy decisions within urban planning and transportation departments.
 
-Tools & Technologies Used  
+#### Tools & Technologies Used  
 
 -Microsoft Excel (PivotTables, Filters, Charts, Conditional Formatting)
 
